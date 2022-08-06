@@ -5,5 +5,5 @@ Here just to share the source of my game...
 ### Contact Person
 - Discord : Mesujin#1516
 - Yahoo Mail : mesujin.imano@yahoo.com
- <br/>
- I more likely to talk on Discord, so you could contact me there instead of using Yahoo Mail.
+
+I more likely to talk on Discord, so you could contact me there instead of using Yahoo Mail.
