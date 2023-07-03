@@ -5,7 +5,7 @@ Well, i'm not a real programmer, so i might not knowing the basic things in prog
 Anyway, i'm here just to share the source of "my stuff"..
 
 ### Contact Person
-- Discord : Mesujin#1516
+- Discord : mesujin (Mesujin#1516)
 - Yahoo Mail : mesujin.imano@yahoo.com
 
 I prefer Discord anyway..
